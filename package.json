@@ -14,7 +14,15 @@
   "author": "Erik Retana <merzelert@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Merzelert/random.messages.merz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Merzelert/random.messages.merz/issues"
+  },
+  "homepage": "https://github.com/Merzelert/random.messages.merz#readme"
 }
